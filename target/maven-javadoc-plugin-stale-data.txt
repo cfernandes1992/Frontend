@@ -1,0 +1,88 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/carlo/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/carlo/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/carlo/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/carlo/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/carlo/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/carlo/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/carlo/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/carlo/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/carlo/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/carlo/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/carlo/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/carlo/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/carlo/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/carlo/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/carlo/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/carlo/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/carlo/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/carlo/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar;C:/Users/carlo/.m2/repository/javax/mail/mail/1.4.7/mail-1.4.7.jar;C:/Users/carlo/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar;C:/Users/carlo/.m2/repository/com/sun/mail/jakarta.mail/2.0.1/jakarta.mail-2.0.1.jar;C:/Users/carlo/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/carlo/Documents/NetBeansProjects/TimeOff/src/main/java;C:/Users/carlo/Documents/NetBeansProjects/TimeOff/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/carlo/Documents/NetBeansProjects/TimeOff/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TimeOff-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/carlo/Documents/NetBeansProjects/TimeOff/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'TimeOff-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.timeoff
+com.mycompany.timeoff.resources
+Package
+Servlets
+C:\Users\carlo\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1731985795201
+C:\Users\carlo\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1731985795442
+C:\Users\carlo\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1731985795386
+C:\Users\carlo\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1731985795243
+C:\Users\carlo\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1731985795352
+C:\Users\carlo\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1731985795792
+C:\Users\carlo\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1731985795350
+C:\Users\carlo\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1731985795437
+C:\Users\carlo\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1731985795648
+C:\Users\carlo\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1731985796089
+C:\Users\carlo\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1731985796248
+C:\Users\carlo\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1731985795947
+C:\Users\carlo\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1731985796025
+C:\Users\carlo\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1731985795848
+C:\Users\carlo\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1731985796263
+C:\Users\carlo\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1731985796010
+C:\Users\carlo\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1731985796453
+C:\Users\carlo\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1731985796316
+C:\Users\carlo\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1731985796151
+C:\Users\carlo\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1731985796717
+C:\Users\carlo\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1731985796478
+C:\Users\carlo\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1731985797061
+C:\Users\carlo\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1731985796552
+C:\Users\carlo\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1731985796519
+C:\Users\carlo\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1731985796544
+C:\Users\carlo\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1731985796604
+C:\Users\carlo\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1731985796609
+C:\Users\carlo\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1731985797022
+C:\Users\carlo\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1731985797675
+C:\Users\carlo\.m2\repository\javax\mail\mail\1.4.7\mail-1.4.7.jar = 1732775687718
+C:\Users\carlo\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar = 1732772592173
+C:\Users\carlo\.m2\repository\com\sun\mail\jakarta.mail\2.0.1\jakarta.mail-2.0.1.jar = 1732777474789
+C:\Users\carlo\.m2\repository\com\sun\activation\jakarta.activation\2.0.1\jakarta.activation-2.0.1.jar = 1732777474834
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\src\main\java = 1737517319979
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\generated-sources\annotations = 1740635631489
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\allclasses-index.html = 1740635636697
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\allpackages-index.html = 1740635636701
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\copy.svg = 1740635636751
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\element-list = 1740635636563
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\help-doc.html = 1740635636741
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\index-all.html = 1740635636724
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\index.html = 1740635636683
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\jquery-ui.overrides.css = 1740635636782
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\member-search-index.js = 1740635636709
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\module-search-index.js = 1740635636703
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\overview-summary.html = 1740635636730
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\overview-tree.html = 1740635636678
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\package-search-index.js = 1740635636705
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\script.js = 1740635636749
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\search-page.js = 1740635636758
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\search.html = 1740635636728
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\search.js = 1740635636755
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\serialized-form.html = 1740635636629
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\stylesheet.css = 1740635636745
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\tag-search-index.js = 1740635636711
+C:\Users\carlo\Documents\NetBeansProjects\TimeOff\target\reports\apidocs\type-search-index.js = 1740635636707

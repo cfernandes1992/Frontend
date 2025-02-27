@@ -1,0 +1,5 @@
+com\mycompany\timeoff\resources\JakartaEE10Resource.class
+Servlets\send.class
+com\mycompany\timeoff\JakartaRestConfiguration.class
+Servlets\send$1.class
+Package\DatabaseConnection.class

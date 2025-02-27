@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Package","l":"DatabaseConnection"},{"p":"com.mycompany.timeoff.resources","l":"JakartaEE10Resource"},{"p":"com.mycompany.timeoff","l":"JakartaRestConfiguration"},{"p":"Servlets","l":"send"}];updateSearchResults();
