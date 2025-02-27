@@ -65,7 +65,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.mycompany.timeoff</mainClass>
+            <mainClass>com.mycompany.Timeoff</mainClass>
           </manifest>
         </archive>
       </configuration>
