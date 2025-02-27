@@ -1,0 +1,42 @@
+
+footer {
+  background-image: url("../images/Untitled-2.jpg");
+  display: block;
+  text-align: center;
+  padding: 3px;
+  background-color:#3498db;
+  color: white;
+  margin-top: 10px;
+  width: 100%;
+}
+
+body{      
+    background-color:whitesmoke; 
+    font-family:Arial;
+
+}
+
+div.form {    
+    display: inline-table;
+    width: 70%;
+}
+
+input[type=radio]{
+ cursor: pointer;
+}
+
+delete{
+    width:5%;
+    float: right;
+}
+
+
+.image {
+  background-image: url("../images/Header.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 150px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
